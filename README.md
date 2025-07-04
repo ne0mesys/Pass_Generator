@@ -11,7 +11,7 @@ This stool serves as a Cybersecurity Tool (Blue Team), which helps users to feel
 By ne0mesys
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0155d495-2dfe-45aa-b05c-a869ac3a47e3" alt="Password Generator Screenshot" />
+  <img src="https://github.com/user-attachments/assets/d4d0ee1a-88eb-4f1c-826e-9c9bebf23791" alt="Password Generator Screenshot" />
 </p>
 
 ## Requirements 
