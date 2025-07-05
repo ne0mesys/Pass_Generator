@@ -88,7 +88,7 @@ def main():
     label4 = CTkLabel(frame, text_color="#5bff8f", font=("Arial", 18), cursor="hand2") 
 
     # Entries
-    entry1 = CTkEntry(frame2, width=70, corner_radius=5, placeholder_text="Ex: 20", font=("Arial", 18), text_color="#FFFFFF", border_color="white")
+    entry1 = CTkEntry(frame2, width=70, corner_radius=5, placeholder_text="Ex: 20", font=("Arial", 18), text_color="#FFFFFF", border_color="white", fg_color="#353535")
     entry1.pack(pady=10, padx=10)
 
     # Switches .get() --> Gets value of switch to check the option
